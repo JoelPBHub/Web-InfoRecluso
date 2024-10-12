@@ -24,3 +24,6 @@ de servicios de alojamiento, bases de datos, autenticación y seguridad. Azure
 asegura una infraestructura escalable y de alta disponibilidad para el 
 despliegue de "InfoRecluso", con capacidades avanzadas de gestión y 
 monitoreo.
+
+![image](https://github.com/user-attachments/assets/2d93651c-dc5a-42ce-a91d-50c85781776b)
+![image](https://github.com/user-attachments/assets/4753c111-d854-4ce3-82d0-ececc6242660)
